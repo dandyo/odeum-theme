@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="21px" viewBox="0 0 83 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>divider-horizontal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-1015.000000, -850.000000)" fill="#B79151">
+            <g id="divider-horizontal" transform="translate(1056.500000, 860.500000) rotate(-270.000000) translate(-1056.500000, -860.500000) translate(1046.000000, 819.000000)">
+                <path d="M0,72.5 L10.5,83.0003946 L21,72.5 L10.5,62 L0,72.5 Z M3,72.4997755 L10.4997755,65 L18,72.4997755 L10.4997755,80 L3,72.4997755 Z" id="Fill-1"></path>
+                <polygon id="Fill-2" points="10 80 11 80 11 0 10 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

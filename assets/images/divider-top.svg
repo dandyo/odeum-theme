@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="83px" viewBox="0 0 21 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>divider-top</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-880.000000, -833.000000)" fill="#B79151">
+            <g id="divider-top" transform="translate(880.000000, 833.000000)">
+                <path d="M0,72.5 L10.5,83.0003946 L21,72.5 L10.5,62 L0,72.5 Z M3.90701346,72.5 L10.5,65.9070135 L17.0933812,72.5 L10.5,79.0933812 L3.90701346,72.5 Z" id="Fill-1"></path>
+                <polygon id="Fill-2" points="10 80 11 80 11 0 10 0"></polygon>
+                <polygon id="Fill-3" points="4 56 6 56 6 20 4 20"></polygon>
+                <polygon id="Fill-4" points="15 56 17 56 17 20 15 20"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
